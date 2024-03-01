@@ -1,6 +1,14 @@
 * {
     background-color: black;
-    text-align: center;
-    color: yellow;
+    text-align: left;
+    color: white;
 }
 
+.header {
+    font-size: 26px;
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
